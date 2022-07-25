@@ -4,15 +4,19 @@
   "year": 2016,
   "already_read": [
     {
+      "book": "Rómaiaknak írt levél",
+      "finished": "2022.07.25."
+    },
+    {
       "book": "Énekek éneke",
       "finished": "2022.03.05."
     },
     {
-      "book": "Tesszalonikaiakhoz írt II. levél",
+      "book": "Tesszalonikaiaknak írt II. levél",
       "finished": "2022.03.05."
     },
     {
-      "book": "Tesszalonikaiakhoz írt I. levél",
+      "book": "Tesszalonikaiaknak írt I. levél",
       "finished": "2022.03.05."
     },
     {
@@ -100,7 +104,7 @@
       "finished": "2020"
     },
     {
-      "book": "Eszter",
+      "book": "Eszter könyve",
       "finished": "2020"
     },
     {
