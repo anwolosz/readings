@@ -1,5 +1,9 @@
 [
   {
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes"
+  },
+  {
     "title": "A fehér király",
     "author": "Dragomán György"
   },
@@ -78,5 +82,13 @@
   {
     "title": "A viskó",
     "author": "Wm. Paul Young"
+  },
+  {
+    "title": "A világirodalom története",
+    "author": "Szerb Antal"
+  },
+  {
+    "title": "Magyar irodalomtörténet",
+    "author": "Szerb Antal"
   }
 ]
