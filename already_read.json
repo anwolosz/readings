@@ -1,607 +1,607 @@
 [
-  {
-    "title": "Tizenegy",
-    "author": "Marcin Świetlicki",
-    "finished": "2023.09.17.",
-  },
-  {
-    "title": "Építészet ​és vallás",
-    "author": "Caroline Humphrey, Piers Vitebsky",
-    "finished": "2023.08.29.",
-  },
-  {
-    "title": "Tizenhárom",
-    "author": "Marcin Świetlicki",
-    "finished": "2023.08.18.",
-  },
-  {
-    "title": "A virradat ígérete",
-    "author": "Romain Gary",
-    "finished": "2023.08.11.",
-  },
-  {
-    "title": "Előttem ​az élet",
-    "author": "Émile Ajar",
-    "finished": "2023.07.23.",
-  },
-  {
-    "title": "Kerékpárral ​és gyalog a fekete földrészen át",
-    "author": "Kazimierz Nowak",
-    "finished": "2023.07.18.",
-  },
-  {
-    "title": "András Evangéliuma",
-    "author": "Rauschenberger Péter",
-    "finished": "2023.06.19.",
-  },
-  {
-    "title": "A ​fehér király",
-    "author": "Dragomán György",
-    "finished": "2023.06.17.",
-  },
-  {
-    "title": "Utópia",
-    "author": "Morus Tamás",
-    "finished": "2023.06.15.",
-  },
-  {
-    "title": "Virágot Algernonnak",
-    "author": "Daniel Keyes",
-    "finished": "2023.06.11.",
-  },
-  {
-    "title": "A pestis",
-    "author": "Albert Camus",
-    "finished": "2023.06.09.",
-  },
-  {
-    "title": "Bábeli beszélgetés",
-    "author": "Umberto Eco",
-    "finished": "2023.06.07.",
-  },
-  {
-    "title": "Nagy Panda és Kicsi Sárkány",
-    "author": "James Norbury",
-    "finished": "2023.06.05.",
-  },
-  {
-    "title": "Iskola a határon",
-    "author": "Ottlik Géza",
-    "finished": "2023.05.23.",
-  },
-  {
-    "title": "Modern Talking",
-    "author": "Nádasdy Ádám",
-    "finished": "2023.05.11.",
-  },
-  {
-    "title": "Nyolcrétű út",
-    "author": "Mérő László",
-    "finished": "2023.05.02."
-  },
-  {
-    "title": "Új világok teremtése",
-    "author": "Pintér Gergő",
-    "finished": "2023.04.30."
-  },
-  {
-    "title": "Féyn",
-    "author": "Szendrői Csaba",
-    "finished": "2023.04.22."
-  },
-  {
-    "title": "Hénok apokalipszise",
-    "translator": "Hamvas Béla",
-    "finished": "2023.04.22."
-  },
-  {
-    "title": "Dorian Gray arcképe",
-    "author": "Oscar Wilde",
-    "translator": "Kosztolányi Dezső",
-    "finished": "2023.04.21."
-  },
-  {
-    "title": "Az ész segédigéi",
-    "author": "Mérő László",
-    "finished": "2023.04.14."
-  },
-  {
-    "title": "Pnyin professzor",
-    "author": "Vladimir Nabokov",
-    "finished": "2023.04.09."
-  },
-  {
-    "title": "Szakrális geometria",
-    "author": "Komáromy Zoltán",
-    "finished": "2023.04.06."
-  },
-  {
-    "title": "Az őz",
-    "author": "Szabó Magda",
-    "finished": "2023.04.03."
-  },
-  {
-    "title": "Számvetés",
-    "author": "Vándori András",
-    "finished": "2023.03.28."
-  },
-  {
-    "title": "Jakabak",
-    "author": "Jean-Claude Mourlevat",
-    "finished": "2023.03.27."
-  },
-  {
-    "title": "Tükör és fény",
-    "author": "Hilary Mantel",
-    "finished": "2023.03.25."
-  },
-  {
-    "title": "Holtaknak menete",
-    "author": "Hilary Mantel",
-    "finished": "2023.03.03."
-  },
-  {
-    "title": "Farkasbőrben",
-    "author": "Hilary Mantel",
-    "translator": "Gázsity Mila",
-    "finished": "2023.02.18."
-  },
-  {
-    "title": "A gyertyák csonkig égnek",
-    "author": "Márai Sándor",
-    "finished": "2023.01.29."
-  },
-  {
-    "title": "Ördögi körök",
-    "author": "Ron Aharoni",
-    "finished": "2023.01.25."
-  },
-  {
-    "title": "Mario és a varázsló",
-    "author": "Thomas Mann",
-    "finished": "2023.01.22."
-  },
-  {
-    "title": "Litvánok és…",
-    "author": "Tomas Venclova",
-    "finished": "2023.01.22."
-  },
-  {
-    "title": "Gonzó Szakácskönyv",
-    "author": "Puzsér Róbert",
-    "finished": "2022.12.26."
-  },
-  {
-    "title": "A halak jelleme",
-    "author": "Gerald Durrell",
-    "finished": "2022.12.24."
-  },
-  {
-    "title": "How to Write Essays and Assignments",
-    "author": "Jonathan Weyers, Kathleen McMillan",
-    "finished": "2022.11.14."
-  },
-  {
-    "title": "A szerelem bolondjai",
-    "author": "Jókai Mór",
-    "finished": "2022.10.10."
-  },
-  {
-    "title": "Micimackó",
-    "author": "Alan Alexander Milne",
-    "finished": "2022.09.07."
-  },
-  {
-    "title": "Jégtörő Mátyás",
-    "author": "Tamási Áron",
-    "finished": "2022.08.25."
-  },
-  {
-    "title": "Budapesti kalauz marslakók számára",
-    "author": "Szerb Antal",
-    "finished": "2022.08.21."
-  },
-  {
-    "title": "Az agy",
-    "author": "David Eagleman",
-    "finished": "2022.08.20."
-  },
-  {
-    "title": "A párizsi Notre-Dame",
-    "author": "Victor Hugo",
-    "finished": "2022.08.06."
-  },
-  {
-    "title": "Az ember után",
-    "author": "Dougal Dixon",
-    "finished": "2022.07.22."
-  }, 
-  {
-    "title": "Csongor és Tünde",
-    "author": "Vörösmarty Mihály",
-    "finished": "2022.07.18."
-  }, 
-  {
-    "title": "Kurblimadár krónikája",
-    "author": "Murakami Haruki",
-    "finished": "2022.07.14."
-  }, 
-  {
-    "title": "Fák",
-    "author": "Hamvas Béla",
-    "finished": "2022.07.05."
-  },
-  {
-    "title": "A bor filozófiája",
-    "author": "Hamvas Béla",
-    "finished": "2022.07.04."
-  },
-  {
-    "title": "A Dűne",
-    "author": "Frank Herbert",
-    "finished": "2022.06.27."
-  },
-  {
-    "title": "Sárbogárdi Jolán – A test angyala",
-    "author": "Parti Nagy Lajos",
-    "finished": "2022.06.14."
-  },
-  {
-    "title": "Tóték",
-    "author": "Örkény István",
-    "finished": "2022.06.02."
-  },
-  {
-    "title": "Az apostol",
-    "author": "Petőfi Sándor",
-    "finished": "2022.06.01."
-  },
-  {
-    "title": "A helység kalapácsa",
-    "author": "Petőfi Sándor",
-    "finished": "2022.06.01."
-  },
-  {
-    "title": "Napló",
-    "author": "Frida Kahlo",
-    "finished": "2022.05.29."
-  },
-  {
-    "title": "Bűn és bűnhődés",
-    "author": "Fjodor Mihajlovics Dosztojevszkij",
-    "translator": "Soproni András",
-    "finished": "2022.05.23."
-  },
-  {
-    "title": "„Rózsakiállítás”",
-    "author": "Örkény István",
-    "finished": "2022.02.17."
-  },
-  {
-    "title": "József és testvérei",
-    "author": "Thomas Mann",
-    "finished": "2022.02.01."
-  },
-  {
-    "title": "100 év - 100 kép - 100 gondolat",
-    "author": " Nádasdy Ádám, Medgyesi Zsófia ",
-    "finished": "2022"
-  },
-  {
-    "title": "Piranesi",
-    "author": "Susanna Clarke",
-    "finished": "2021"
-  },
-  {
-    "title": "Utas és holdvilág",
-    "author": "Szerb Antal",
-    "finished": "2021.03.22."
-  },
-  {
-    "title": "Isteni színjáték",
-    "author": "Dante Alighieri",
-    "translator": "Nádasdy Ádám",
-    "finished": "2021"
-  },
-  {
-    "title": "Pokol",
-    "author": "Dante Alighieri",
-    "translator": "Babits Mihály",
-    "finished": "2021"
-  },
-  {
-    "title": "A pápa rinocérosza",
-    "author": "Lawrence Norfolk",
-    "finished": "2021"
-  },
-  {
-    "title": "John Saturnall lakomája",
-    "author": "Lawrence Norfolk",
-    "finished": "2021"
-  },
-  {
-    "title": "Alice Tükörországban",
-    "author": "Lewis Carroll",
-    "finished": "2021"
-  },
-  {
-    "title": "Karácsonyi társasjáték",
-    "author": "Karinthy Frigyes",
-    "finished": "2020-2021"
-  },
-  {
-    "title": "Csodát nekem",
-    "author": "Kosztolányi Dezső",
-    "finished": "2020-2021"
-  },
-  {
-    "title": "A művészet kertje",
-    "author": "Révész Emese, Feledy Balázs, Gross András",
-    "finished": "2020"
-  },
-  {
-    "title": "A Lemprière-lexikon",
-    "author": "Lawrence Norfolk",
-    "finished": "2020"
-  },
-  {
-    "title": "A nevem Piros",
-    "author": "Orhan Pamuk",
-    "finished": "2020"
-  },
-  {
-    "title": "Milyen nyelv a magyar?",
-    "author": "Nádasdy Ádám",
-    "finished": "2020"
-  },
-  {
-    "title": "Az arany ember",
-    "author": "Jókai Mór",
-    "finished": "2020"
-  },
-  {
-    "title": "Szerelmi krónika",
-    "author": "Tadeusz Konwicki",
-    "finished": "2020"
-  },
-  {
-    "title": "Száraz kavics - Esszék",
-    "author": "Heidl György",
-    "finished": "2020"
-  },
-  {
-    "title": "The Art of Point-and-Click Adventure Games",
-    "publisher": "Bitmap Books",
-    "finished": "2020"
-  },
-  {
-    "title": "Stalker",
-    "author": "Arkagyij Sztrugackij, Borisz Sztrugackij",
-    "finished": "2019"
-  },
-  {
-    "title": "Piknik az árokparton",
-    "author": "Arkagyij Sztrugackij, Borisz Sztrugackij",
-    "finished": "2019.10.05"
-  },
-  {
-    "title": "Avatar: The Last Airbender",
-    "author": "Michael DiMartino, Bryan Konietzko",
-    "finished": "2019"
-  },
-  {
-    "title": "A nehéz búcsú (Sin City 1.)",
-    "author": "Frank Miller",
-    "finished": "2019"
-  },
-  {
-    "title": "A pokolból",
-    "author": "Alan Moore",
-    "finished": "2019-2020"
-  },
-  {
-    "title": "Battle Royale",
-    "author": "Takami Kósun",
-    "finished": "2019-2020"
-  },
-  {
-    "title": "Különleges Úriemberek Szövetsége 1.",
-    "author": "Alan Moore",
-    "finished": "2019-2020"
-  },
-  {
-    "title": "A Mester és Margarita",
-    "author": "Mikhail Bulgakov",
-    "finished": "2019-2020"
-  },
-  {
-    "title": "V mint vérbosszú",
-    "author": "Alan Moore",
-    "finished": "2018-2020"
-  },
-  {
-    "title": "A teljes Watchmen",
-    "author": "Alan Moore",
-    "finished": "2014-2018"
-  },
-  {
-    "title": "Az ember tragédiája",
-    "author": "Madách Imre",
-    "finished": "2014-2018"
-  },
-  {
-    "title": "Amerikai istenek",
-    "author": "Neil Gaiman",
-    "finished": "2014-2018"
-  },
-  {
-    "title": "Mort",
-    "author": "Terry Pratchett",
-    "finished": "2014-2018"
-  },
-  {
-    "title": "1984",
-    "author": "George Orwell",
-    "finished": "2014-2018"
-  },
-  {
-    "title": "Állatfarm",
-    "author": "George Orwell",
-    "finished": "2014-2018"
-  },
-  {
-    "title": "Szép új világ",
-    "author": "Aldous Huxley",
-    "finished": "2014-2018"
-  },
-  {
-    "title": "János Vitéz",
-    "author": "Petőfi Sándor",
-    "finished": "2014-2018"
-  },
-  {
-    "title": "Mirkó király és a Bűbájos",
-    "author": "Benedek Elek",
-    "finished": "2014-2018"
-  },
-  {
-    "title": "Minden sötét, csillag sehol",
-    "author": "Stephen King",
-    "finished": "2014-2018"
-  },
-  {
-    "title": "Salamon király gyűrűje",
-    "author": "Jonathan Stroud",
-    "finished": "2014-2018"
-  },
-  {
-    "title": "A sikító lépcső esete",
-    "author": "Jonathan Stroud",
-    "finished": "2014-2018"
-  },
-  {
-    "title": "Büszkeség és balítélet",
-    "author": "Jane Austen",
-    "finished": "2014-2018"
-  },
-  {
-    "title": "A gólyakalifa",
-    "author": "Babits Mihály",
-    "finished": "2014-2018"
-  },
-  {
-    "title": "Szinuhe",
-    "author": "Mika Waltari",
-    "finished": "2014-2018"
-  },
-  {
-    "title": "A próféta",
-    "author": "Kahlil Gibran",
-    "finished": "2014-2018"
-  },
-  {
-    "title": "Tizenkettő",
-    "author": "Marcin Świetlicki",
-    "finished": "2010-2018"
-  },
-  {
-    "title": "Weiser Dávidka",
-    "author": "Paweł Huelle",
-    "finished": "2010-2018"
-  },
-  {
-    "title": "A Madame",
-    "author": "Antoni Libera",
-    "finished": "2010-2018"
-  },
-  {
-    "title": "Utazás a Holdba",
-    "author": "Jules Verne",
-    "finished": "2010-2018"
-  },
-  {
-    "title": "Utazás a Hold körül",
-    "author": "Jules Verne",
-    "finished": "2010-2018"
-  },
-  {
-    "title": "A sárkány szeme",
-    "author": "Stephen King",
-    "finished": "2010-2018"
-  },
-  {
-    "title": "A háború művészete",
-    "author": "Szun-ce",
-    "finished": "2010-2014"
-  },
-  {
-    "title": "A rózsa neve",
-    "author": "Umberto Eco",
-    "finished": "2006-2014"
-  },
-  {
-    "title": "Harry Potter",
-    "author": "J. K. Rowling",
-    "finished": "2006-2014"
-  },
-  {
-    "title": "Vámpír könyvek",
-    "author": "Darren Shan",
-    "finished": "2006-2014"
-  },
-  {
-    "title": "A rejtelmes sziget",
-    "author": "Jules Verne",
-    "finished": "2006-2014"
-  },
-  {
-    "title": "Bartimaeus trilógia",
-    "author": "Jonathan Stroud",
-    "finished": "2006-2014"
-  },
-  {
-    "title": "A Végtelen Történet",
-    "author": "Michael Ende",
-    "finished": "2006-2014"
-  },
-  {
-    "title": "A kőszívű ember fiai",
-    "author": "Jókai Mór",
-    "finished": "2006-2014"
-  },
-  {
-    "title": "Tom Sawyer kalandjai",
-    "author": "Mark Twain",
-    "finished": "2006-2014"
-  },
-  {
-    "title": "Huckleberry Finn kalandjai",
-    "author": "Mark Twain",
-    "finished": "2006-2014"
-  },
-  {
-    "title": "Karcsi és a csokoládégyár",
-    "author": "Roald Dahl",
-    "finished": "2006-2014"
-  },
-  {
-    "title": "Én sose kapok levelet-Lesz nekem egy szigetem-Az indián kertje",
-    "author": "Fehér Klára",
-    "finished": "2006-2014"
-  },
-  {
-    "title": "Démonvilág",
-    "author": "Darren Shan",
-    "finished": "2006-2014"
-  },
-  {
-    "title": "A Pál utcai fiúk",
-    "author": "Ferenc Molnár",
-    "finished": "2006-2014"
-  },
-  {
-    "title": "Kojaszan",
-    "author": "Darren Shan",
-    "finished": "2006-2014"
-  }
+    {
+        "title": "Tizenegy",
+        "author": "Marcin Świetlicki",
+        "finished": "2023.09.17."
+    },
+    {
+        "title": "Építészet és vallás",
+        "author": "Caroline Humphrey, Piers Vitebsky",
+        "finished": "2023.08.29."
+    },
+    {
+        "title": "Tizenhárom",
+        "author": "Marcin Świetlicki",
+        "finished": "2023.08.18."
+    },
+    {
+        "title": "A virradat ígérete",
+        "author": "Romain Gary",
+        "finished": "2023.08.11."
+    },
+    {
+        "title": "Előttem az élet",
+        "author": "Émile Ajar",
+        "finished": "2023.07.23."
+    },
+    {
+        "title": "Kerékpárral és gyalog a fekete földrészen át",
+        "author": "Kazimierz Nowak",
+        "finished": "2023.07.18."
+    },
+    {
+        "title": "András Evangéliuma",
+        "author": "Rauschenberger Péter",
+        "finished": "2023.06.19."
+    },
+    {
+        "title": "A fehér király",
+        "author": "Dragomán György",
+        "finished": "2023.06.17."
+    },
+    {
+        "title": "Utópia",
+        "author": "Morus Tamás",
+        "finished": "2023.06.15."
+    },
+    {
+        "title": "Virágot Algernonnak",
+        "author": "Daniel Keyes",
+        "finished": "2023.06.11."
+    },
+    {
+        "title": "A pestis",
+        "author": "Albert Camus",
+        "finished": "2023.06.09."
+    },
+    {
+        "title": "Bábeli beszélgetés",
+        "author": "Umberto Eco",
+        "finished": "2023.06.07."
+    },
+    {
+        "title": "Nagy Panda és Kicsi Sárkány",
+        "author": "James Norbury",
+        "finished": "2023.06.05."
+    },
+    {
+        "title": "Iskola a határon",
+        "author": "Ottlik Géza",
+        "finished": "2023.05.23."
+    },
+    {
+        "title": "Modern Talking",
+        "author": "Nádasdy Ádám",
+        "finished": "2023.05.11."
+    },
+    {
+        "title": "Nyolcrétű út",
+        "author": "Mérő László",
+        "finished": "2023.05.02."
+    },
+    {
+        "title": "Új világok teremtése",
+        "author": "Pintér Gergő",
+        "finished": "2023.04.30."
+    },
+    {
+        "title": "Féyn",
+        "author": "Szendrői Csaba",
+        "finished": "2023.04.22."
+    },
+    {
+        "title": "Hénok apokalipszise",
+        "translator": "Hamvas Béla",
+        "finished": "2023.04.22."
+    },
+    {
+        "title": "Dorian Gray arcképe",
+        "author": "Oscar Wilde",
+        "translator": "Kosztolányi Dezső",
+        "finished": "2023.04.21."
+    },
+    {
+        "title": "Az ész segédigéi",
+        "author": "Mérő László",
+        "finished": "2023.04.14."
+    },
+    {
+        "title": "Pnyin professzor",
+        "author": "Vladimir Nabokov",
+        "finished": "2023.04.09."
+    },
+    {
+        "title": "Szakrális geometria",
+        "author": "Komáromy Zoltán",
+        "finished": "2023.04.06."
+    },
+    {
+        "title": "Az őz",
+        "author": "Szabó Magda",
+        "finished": "2023.04.03."
+    },
+    {
+        "title": "Számvetés",
+        "author": "Vándori András",
+        "finished": "2023.03.28."
+    },
+    {
+        "title": "Jakabak",
+        "author": "Jean-Claude Mourlevat",
+        "finished": "2023.03.27."
+    },
+    {
+        "title": "Tükör és fény",
+        "author": "Hilary Mantel",
+        "finished": "2023.03.25."
+    },
+    {
+        "title": "Holtaknak menete",
+        "author": "Hilary Mantel",
+        "finished": "2023.03.03."
+    },
+    {
+        "title": "Farkasbőrben",
+        "author": "Hilary Mantel",
+        "translator": "Gázsity Mila",
+        "finished": "2023.02.18."
+    },
+    {
+        "title": "A gyertyák csonkig égnek",
+        "author": "Márai Sándor",
+        "finished": "2023.01.29."
+    },
+    {
+        "title": "Ördögi körök",
+        "author": "Ron Aharoni",
+        "finished": "2023.01.25."
+    },
+    {
+        "title": "Mario és a varázsló",
+        "author": "Thomas Mann",
+        "finished": "2023.01.22."
+    },
+    {
+        "title": "Litvánok és…",
+        "author": "Tomas Venclova",
+        "finished": "2023.01.22."
+    },
+    {
+        "title": "Gonzó Szakácskönyv",
+        "author": "Puzsér Róbert",
+        "finished": "2022.12.26."
+    },
+    {
+        "title": "A halak jelleme",
+        "author": "Gerald Durrell",
+        "finished": "2022.12.24."
+    },
+    {
+        "title": "How to Write Essays and Assignments",
+        "author": "Jonathan Weyers, Kathleen McMillan",
+        "finished": "2022.11.14."
+    },
+    {
+        "title": "A szerelem bolondjai",
+        "author": "Jókai Mór",
+        "finished": "2022.10.10."
+    },
+    {
+        "title": "Micimackó",
+        "author": "Alan Alexander Milne",
+        "finished": "2022.09.07."
+    },
+    {
+        "title": "Jégtörő Mátyás",
+        "author": "Tamási Áron",
+        "finished": "2022.08.25."
+    },
+    {
+        "title": "Budapesti kalauz marslakók számára",
+        "author": "Szerb Antal",
+        "finished": "2022.08.21."
+    },
+    {
+        "title": "Az agy",
+        "author": "David Eagleman",
+        "finished": "2022.08.20."
+    },
+    {
+        "title": "A párizsi Notre-Dame",
+        "author": "Victor Hugo",
+        "finished": "2022.08.06."
+    },
+    {
+        "title": "Az ember után",
+        "author": "Dougal Dixon",
+        "finished": "2022.07.22."
+    },
+    {
+        "title": "Csongor és Tünde",
+        "author": "Vörösmarty Mihály",
+        "finished": "2022.07.18."
+    },
+    {
+        "title": "Kurblimadár krónikája",
+        "author": "Murakami Haruki",
+        "finished": "2022.07.14."
+    },
+    {
+        "title": "Fák",
+        "author": "Hamvas Béla",
+        "finished": "2022.07.05."
+    },
+    {
+        "title": "A bor filozófiája",
+        "author": "Hamvas Béla",
+        "finished": "2022.07.04."
+    },
+    {
+        "title": "A Dűne",
+        "author": "Frank Herbert",
+        "finished": "2022.06.27."
+    },
+    {
+        "title": "Sárbogárdi Jolán – A test angyala",
+        "author": "Parti Nagy Lajos",
+        "finished": "2022.06.14."
+    },
+    {
+        "title": "Tóték",
+        "author": "Örkény István",
+        "finished": "2022.06.02."
+    },
+    {
+        "title": "Az apostol",
+        "author": "Petőfi Sándor",
+        "finished": "2022.06.01."
+    },
+    {
+        "title": "A helység kalapácsa",
+        "author": "Petőfi Sándor",
+        "finished": "2022.06.01."
+    },
+    {
+        "title": "Napló",
+        "author": "Frida Kahlo",
+        "finished": "2022.05.29."
+    },
+    {
+        "title": "Bűn és bűnhődés",
+        "author": "Fjodor Mihajlovics Dosztojevszkij",
+        "translator": "Soproni András",
+        "finished": "2022.05.23."
+    },
+    {
+        "title": "„Rózsakiállítás”",
+        "author": "Örkény István",
+        "finished": "2022.02.17."
+    },
+    {
+        "title": "József és testvérei",
+        "author": "Thomas Mann",
+        "finished": "2022.02.01."
+    },
+    {
+        "title": "100 év - 100 kép - 100 gondolat",
+        "author": " Nádasdy Ádám, Medgyesi Zsófia ",
+        "finished": "2022"
+    },
+    {
+        "title": "Piranesi",
+        "author": "Susanna Clarke",
+        "finished": "2021"
+    },
+    {
+        "title": "Utas és holdvilág",
+        "author": "Szerb Antal",
+        "finished": "2021.03.22."
+    },
+    {
+        "title": "Isteni színjáték",
+        "author": "Dante Alighieri",
+        "translator": "Nádasdy Ádám",
+        "finished": "2021"
+    },
+    {
+        "title": "Pokol",
+        "author": "Dante Alighieri",
+        "translator": "Babits Mihály",
+        "finished": "2021"
+    },
+    {
+        "title": "A pápa rinocérosza",
+        "author": "Lawrence Norfolk",
+        "finished": "2021"
+    },
+    {
+        "title": "John Saturnall lakomája",
+        "author": "Lawrence Norfolk",
+        "finished": "2021"
+    },
+    {
+        "title": "Alice Tükörországban",
+        "author": "Lewis Carroll",
+        "finished": "2021"
+    },
+    {
+        "title": "Karácsonyi társasjáték",
+        "author": "Karinthy Frigyes",
+        "finished": "2020-2021"
+    },
+    {
+        "title": "Csodát nekem",
+        "author": "Kosztolányi Dezső",
+        "finished": "2020-2021"
+    },
+    {
+        "title": "A művészet kertje",
+        "author": "Révész Emese, Feledy Balázs, Gross András",
+        "finished": "2020"
+    },
+    {
+        "title": "A Lemprière-lexikon",
+        "author": "Lawrence Norfolk",
+        "finished": "2020"
+    },
+    {
+        "title": "A nevem Piros",
+        "author": "Orhan Pamuk",
+        "finished": "2020"
+    },
+    {
+        "title": "Milyen nyelv a magyar?",
+        "author": "Nádasdy Ádám",
+        "finished": "2020"
+    },
+    {
+        "title": "Az arany ember",
+        "author": "Jókai Mór",
+        "finished": "2020"
+    },
+    {
+        "title": "Szerelmi krónika",
+        "author": "Tadeusz Konwicki",
+        "finished": "2020"
+    },
+    {
+        "title": "Száraz kavics - Esszék",
+        "author": "Heidl György",
+        "finished": "2020"
+    },
+    {
+        "title": "The Art of Point-and-Click Adventure Games",
+        "publisher": "Bitmap Books",
+        "finished": "2020"
+    },
+    {
+        "title": "Stalker",
+        "author": "Arkagyij Sztrugackij, Borisz Sztrugackij",
+        "finished": "2019"
+    },
+    {
+        "title": "Piknik az árokparton",
+        "author": "Arkagyij Sztrugackij, Borisz Sztrugackij",
+        "finished": "2019.10.05"
+    },
+    {
+        "title": "Avatar: The Last Airbender",
+        "author": "Michael DiMartino, Bryan Konietzko",
+        "finished": "2019"
+    },
+    {
+        "title": "A nehéz búcsú (Sin City 1.)",
+        "author": "Frank Miller",
+        "finished": "2019"
+    },
+    {
+        "title": "A pokolból",
+        "author": "Alan Moore",
+        "finished": "2019-2020"
+    },
+    {
+        "title": "Battle Royale",
+        "author": "Takami Kósun",
+        "finished": "2019-2020"
+    },
+    {
+        "title": "Különleges Úriemberek Szövetsége 1.",
+        "author": "Alan Moore",
+        "finished": "2019-2020"
+    },
+    {
+        "title": "A Mester és Margarita",
+        "author": "Mikhail Bulgakov",
+        "finished": "2019-2020"
+    },
+    {
+        "title": "V mint vérbosszú",
+        "author": "Alan Moore",
+        "finished": "2018-2020"
+    },
+    {
+        "title": "A teljes Watchmen",
+        "author": "Alan Moore",
+        "finished": "2014-2018"
+    },
+    {
+        "title": "Az ember tragédiája",
+        "author": "Madách Imre",
+        "finished": "2014-2018"
+    },
+    {
+        "title": "Amerikai istenek",
+        "author": "Neil Gaiman",
+        "finished": "2014-2018"
+    },
+    {
+        "title": "Mort",
+        "author": "Terry Pratchett",
+        "finished": "2014-2018"
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "finished": "2014-2018"
+    },
+    {
+        "title": "Állatfarm",
+        "author": "George Orwell",
+        "finished": "2014-2018"
+    },
+    {
+        "title": "Szép új világ",
+        "author": "Aldous Huxley",
+        "finished": "2014-2018"
+    },
+    {
+        "title": "János Vitéz",
+        "author": "Petőfi Sándor",
+        "finished": "2014-2018"
+    },
+    {
+        "title": "Mirkó király és a Bűbájos",
+        "author": "Benedek Elek",
+        "finished": "2014-2018"
+    },
+    {
+        "title": "Minden sötét, csillag sehol",
+        "author": "Stephen King",
+        "finished": "2014-2018"
+    },
+    {
+        "title": "Salamon király gyűrűje",
+        "author": "Jonathan Stroud",
+        "finished": "2014-2018"
+    },
+    {
+        "title": "A sikító lépcső esete",
+        "author": "Jonathan Stroud",
+        "finished": "2014-2018"
+    },
+    {
+        "title": "Büszkeség és balítélet",
+        "author": "Jane Austen",
+        "finished": "2014-2018"
+    },
+    {
+        "title": "A gólyakalifa",
+        "author": "Babits Mihály",
+        "finished": "2014-2018"
+    },
+    {
+        "title": "Szinuhe",
+        "author": "Mika Waltari",
+        "finished": "2014-2018"
+    },
+    {
+        "title": "A próféta",
+        "author": "Kahlil Gibran",
+        "finished": "2014-2018"
+    },
+    {
+        "title": "Tizenkettő",
+        "author": "Marcin Świetlicki",
+        "finished": "2010-2018"
+    },
+    {
+        "title": "Weiser Dávidka",
+        "author": "Paweł Huelle",
+        "finished": "2010-2018"
+    },
+    {
+        "title": "A Madame",
+        "author": "Antoni Libera",
+        "finished": "2010-2018"
+    },
+    {
+        "title": "Utazás a Holdba",
+        "author": "Jules Verne",
+        "finished": "2010-2018"
+    },
+    {
+        "title": "Utazás a Hold körül",
+        "author": "Jules Verne",
+        "finished": "2010-2018"
+    },
+    {
+        "title": "A sárkány szeme",
+        "author": "Stephen King",
+        "finished": "2010-2018"
+    },
+    {
+        "title": "A háború művészete",
+        "author": "Szun-ce",
+        "finished": "2010-2014"
+    },
+    {
+        "title": "A rózsa neve",
+        "author": "Umberto Eco",
+        "finished": "2006-2014"
+    },
+    {
+        "title": "Harry Potter",
+        "author": "J. K. Rowling",
+        "finished": "2006-2014"
+    },
+    {
+        "title": "Vámpír könyvek",
+        "author": "Darren Shan",
+        "finished": "2006-2014"
+    },
+    {
+        "title": "A rejtelmes sziget",
+        "author": "Jules Verne",
+        "finished": "2006-2014"
+    },
+    {
+        "title": "Bartimaeus trilógia",
+        "author": "Jonathan Stroud",
+        "finished": "2006-2014"
+    },
+    {
+        "title": "A Végtelen Történet",
+        "author": "Michael Ende",
+        "finished": "2006-2014"
+    },
+    {
+        "title": "A kőszívű ember fiai",
+        "author": "Jókai Mór",
+        "finished": "2006-2014"
+    },
+    {
+        "title": "Tom Sawyer kalandjai",
+        "author": "Mark Twain",
+        "finished": "2006-2014"
+    },
+    {
+        "title": "Huckleberry Finn kalandjai",
+        "author": "Mark Twain",
+        "finished": "2006-2014"
+    },
+    {
+        "title": "Karcsi és a csokoládégyár",
+        "author": "Roald Dahl",
+        "finished": "2006-2014"
+    },
+    {
+        "title": "Én sose kapok levelet-Lesz nekem egy szigetem-Az indián kertje",
+        "author": "Fehér Klára",
+        "finished": "2006-2014"
+    },
+    {
+        "title": "Démonvilág",
+        "author": "Darren Shan",
+        "finished": "2006-2014"
+    },
+    {
+        "title": "A Pál utcai fiúk",
+        "author": "Ferenc Molnár",
+        "finished": "2006-2014"
+    },
+    {
+        "title": "Kojaszan",
+        "author": "Darren Shan",
+        "finished": "2006-2014"
+    }
 ]
