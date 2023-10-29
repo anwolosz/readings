@@ -3,7 +3,11 @@
   "edition": 7,
   "year": 2016,
   "already_read": [
-   {
+    {
+      "book": "Izajás könyve",
+      "finished": "2023.10.29."
+    },
+    {
       "book": "Ezdrás könyve",
       "finished": "2023.10.09."
     },
