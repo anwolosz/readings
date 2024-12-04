@@ -1,299 +1,316 @@
-{
-  "publisher": "Szent István Társulat",
-  "edition": 7,
-  "year": 2016,
-  "already_read": [
-    {
-      "book": "Báruk könyve",
-      "finished": "2024.03.01."
-    },
-    {
-      "book": "Sirák fia könyve",
-      "finished": "2024.02.26."
-    },
-    {
-      "book": "Bölcsesség könyve",
-      "finished": "2024.01.25."
-    },
-    {
-      "book": "Makkabeusok II. könyve",
-      "finished": "2024.01.22."
-    },
-    {
-      "book": "Makkabeusok I. könyve",
-      "finished": "2024.01.16."
-    },
-    {
-      "book": "Judit könyve",
-      "finished": "2024.01.08."
-    },
-    {
-      "book": "Tóbiás könyve",
-      "finished": "2024.01.06."
-    },
-    {
-      "book": "Leviták könyve",
-      "finished": "2024.01.04."
-    },
-    {
-      "book": "Joel könyve",
-      "finished": "2023.12.27."
-    },
-    {
-      "book": "Náhum könyve",
-      "finished": "2023.12.27."
-    },
-    {
-      "book": "Mikeás könyve",
-      "finished": "2023.12.26."
-    },
-    {
-      "book": "Abdiás könyve",
-      "finished": "2023.12.26."
-    },
-    {
-      "book": "Ezekiel könyve",
-      "finished": "2023.12.25."
-    },
-    {
-      "book": "Második Törvénykönyv",
-      "finished": "2023.12.20."
-    },
-    {
-      "book": "Számok könyve",
-      "finished": "2023.11.20."
-    },
-    {
-      "book": "Krónikák I. könyve",
-      "finished": "2023.11.04."
-    },
-    {
-      "book": "Siralmak könyve",
-      "finished": "2023.10.30."
-    },
-    {
-      "book": "Izajás könyve",
-      "finished": "2023.10.29."
-    },
-    {
-      "book": "Ezdrás könyve",
-      "finished": "2023.10.09."
-    },
-    {
-      "book": "Ámosz könyve",
-      "finished": "2023.10.05."
-    },
-    {
-      "book": "Szofoniás könyve",
-      "finished": "2023.10.03."
-    },
-    {
-      "book": "Habakuk könyve",
-      "finished": "2023.10.03."
-    },
-    {
-      "book": "Ozeás könyve",
-      "finished": "2023.10.02."
-    },
-    {
-      "book": "Zsidóknak írt levél",
-      "finished": "2023.09.07."
-    },
-    {
-      "book": "Jób könyve",
-      "finished": "2023.08.13."
-    },
-    {
-      "book": "Jeremiás könyve",
-      "finished": "2023.08.03."
-    },
-    {
-      "book": "Aggeus könyve",
-      "finished": "2023.06.19."
-    },
-    {
-      "book": "Malakiás könyve",
-      "finished": "2023.06.19."
-    },
-    {
-      "book": "Nehemiás könyve",
-      "finished": "2023.06.18."
-    },
-    {
-      "book": "Krónikák II. könyve",
-      "finished": "2023.06.12."
-    },
-    {
-      "book": "Jelenések könyve",
-      "finished": "2022.12.30."
-    },
-    {
-      "book": "Zakariás könyve",
-      "finished": "2022.12.28."
-    },
-    {
-      "book": "Prédikátor könyve",
-      "finished": "2022.12.25."
-    },
-    {
-      "book": "Péter II. levele",
-      "finished": "2022.08.18."
-    },
-    {
-      "book": "Júdás levele",
-      "finished": "2022.07.25."
-    },
-    {
-      "book": "Rómaiaknak írt levél",
-      "finished": "2022.07.25."
-    },
-    {
-      "book": "Énekek éneke",
-      "finished": "2022.03.05."
-    },
-    {
-      "book": "Tesszalonikaiaknak írt II. levél",
-      "finished": "2022.03.05."
-    },
-    {
-      "book": "Tesszalonikaiaknak írt I. levél",
-      "finished": "2022.03.05."
-    },
-    {
-      "book": "Józsue könyve",
-      "finished": "2022.03.04."
-    },
-    {
-      "book": "Kivonulás könyve",
-      "finished": "2022.02.27."
-    },
-    {
-      "book": "Királyok II. könyve",
-      "finished": "2022.02.16."
-    },
-    {
-      "book": "Királyok I. könyve",
-      "finished": "2020-2021"
-    },
-    {
-      "book": "Zsoltárok könyve",
-      "finished": "2020"
-    },
-    {
-      "book": "Példabeszédek könyve",
-      "finished": "2020"
-    },
-    {
-      "book": "Titusznak írt levél",
-      "finished": "2020"
-    },
-    {
-      "book": "Péter I. levele",
-      "finished": "2020"
-    },
-    {
-      "book": "Korintusiaknak írt II. levél",
-      "finished": "2020"
-    },
-    {
-      "book": "Galatáknak írt levél",
-      "finished": "2020"
-    },
-    {
-      "book": "Dániel könyve",
-      "finished": "2020"
-    },
-    {
-      "book": "Jakab levele",
-      "finished": "2020"
-    },
-    {
-      "book": "Korintusiaknak írt I. levél",
-      "finished": "2020"
-    },
-    {
-      "book": "Timóteusnak írt I. levél",
-      "finished": "2020"
-    },
-    {
-      "book": "Timóteusnak írt II. levél",
-      "finished": "2020"
-    },
-    {
-      "book": "János II. levele",
-      "finished": "2020"
-    },
-    {
-      "book": "János III. levele",
-      "finished": "2020"
-    },
-    {
-      "book": "Filemonnak írt levél",
-      "finished": "2020"
-    },
-    {
-      "book": "Kolosszeieknek írt levél",
-      "finished": "2020"
-    },
-    {
-      "book": "Efezusiaknak írt levél",
-      "finished": "2020"
-    },
-    {
-      "book": "Teremtés könyve",
-      "finished": "2020"
-    },
-    {
-      "book": "Eszter könyve",
-      "finished": "2020"
-    },
-    {
-      "book": "János evangéliuma",
-      "finished": "2020"
-    },
-    {
-      "book": "Bírák könyve",
-      "finished": "2020"
-    },
-    {
-      "book": "Sámuel II. könyve",
-      "finished": "2020"
-    },
-    {
-      "book": "Sámuel I. könyve",
-      "finished": "2020"
-    },
-    {
-      "book": "Apostolok Cselekedetei",
-      "finished": "2020"
-    },
-    {
-      "book": "Máté evangéliuma",
-      "finished": "2020"
-    },
-    {
-      "book": "Filippieknek írt levél",
-      "finished": "2020"
-    },
-    {
-      "book": "Lukács evangéliuma",
-      "finished": "2020"
-    },
-    {
-      "book": "János I. levele",
-      "finished": "2020"
-    },
-    {
-      "book": "Márk evangéliuma",
-      "finished": "2020"
-    },
-    {
-      "book": "Jónás könyve",
-      "finished": "2020"
-    },
-    {
-      "book": "Rut könyve",
-      "finished": "2020"
-    }
-  ]
-}
+[
+  {
+    "publisher": "Szent Jeromos Katolikus Bibliatársulat",
+    "edition": 9,
+    "year": 2022,
+     "already_read": [
+        {
+          "book": "Júdás levele",
+          "finished": "2024.12.04."
+        },
+        {
+          "book": "Zsoltárok könyve",
+          "finished": "2024.12.03."
+        }
+     ]
+  },
+  {
+    "publisher": "Szent István Társulat",
+    "edition": 7,
+    "year": 2016,
+    "already_read": [
+      {
+        "book": "Báruk könyve",
+        "finished": "2024.03.01."
+      },
+      {
+        "book": "Sirák fia könyve",
+        "finished": "2024.02.26."
+      },
+      {
+        "book": "Bölcsesség könyve",
+        "finished": "2024.01.25."
+      },
+      {
+        "book": "Makkabeusok II. könyve",
+        "finished": "2024.01.22."
+      },
+      {
+        "book": "Makkabeusok I. könyve",
+        "finished": "2024.01.16."
+      },
+      {
+        "book": "Judit könyve",
+        "finished": "2024.01.08."
+      },
+      {
+        "book": "Tóbiás könyve",
+        "finished": "2024.01.06."
+      },
+      {
+        "book": "Leviták könyve",
+        "finished": "2024.01.04."
+      },
+      {
+        "book": "Joel könyve",
+        "finished": "2023.12.27."
+      },
+      {
+        "book": "Náhum könyve",
+        "finished": "2023.12.27."
+      },
+      {
+        "book": "Mikeás könyve",
+        "finished": "2023.12.26."
+      },
+      {
+        "book": "Abdiás könyve",
+        "finished": "2023.12.26."
+      },
+      {
+        "book": "Ezekiel könyve",
+        "finished": "2023.12.25."
+      },
+      {
+        "book": "Második Törvénykönyv",
+        "finished": "2023.12.20."
+      },
+      {
+        "book": "Számok könyve",
+        "finished": "2023.11.20."
+      },
+      {
+        "book": "Krónikák I. könyve",
+        "finished": "2023.11.04."
+      },
+      {
+        "book": "Siralmak könyve",
+        "finished": "2023.10.30."
+      },
+      {
+        "book": "Izajás könyve",
+        "finished": "2023.10.29."
+      },
+      {
+        "book": "Ezdrás könyve",
+        "finished": "2023.10.09."
+      },
+      {
+        "book": "Ámosz könyve",
+        "finished": "2023.10.05."
+      },
+      {
+        "book": "Szofoniás könyve",
+        "finished": "2023.10.03."
+      },
+      {
+        "book": "Habakuk könyve",
+        "finished": "2023.10.03."
+      },
+      {
+        "book": "Ozeás könyve",
+        "finished": "2023.10.02."
+      },
+      {
+        "book": "Zsidóknak írt levél",
+        "finished": "2023.09.07."
+      },
+      {
+        "book": "Jób könyve",
+        "finished": "2023.08.13."
+      },
+      {
+        "book": "Jeremiás könyve",
+        "finished": "2023.08.03."
+      },
+      {
+        "book": "Aggeus könyve",
+        "finished": "2023.06.19."
+      },
+      {
+        "book": "Malakiás könyve",
+        "finished": "2023.06.19."
+      },
+      {
+        "book": "Nehemiás könyve",
+        "finished": "2023.06.18."
+      },
+      {
+        "book": "Krónikák II. könyve",
+        "finished": "2023.06.12."
+      },
+      {
+        "book": "Jelenések könyve",
+        "finished": "2022.12.30."
+      },
+      {
+        "book": "Zakariás könyve",
+        "finished": "2022.12.28."
+      },
+      {
+        "book": "Prédikátor könyve",
+        "finished": "2022.12.25."
+      },
+      {
+        "book": "Péter II. levele",
+        "finished": "2022.08.18."
+      },
+      {
+        "book": "Júdás levele",
+        "finished": "2022.07.25."
+      },
+      {
+        "book": "Rómaiaknak írt levél",
+        "finished": "2022.07.25."
+      },
+      {
+        "book": "Énekek éneke",
+        "finished": "2022.03.05."
+      },
+      {
+        "book": "Tesszalonikaiaknak írt II. levél",
+        "finished": "2022.03.05."
+      },
+      {
+        "book": "Tesszalonikaiaknak írt I. levél",
+        "finished": "2022.03.05."
+      },
+      {
+        "book": "Józsue könyve",
+        "finished": "2022.03.04."
+      },
+      {
+        "book": "Kivonulás könyve",
+        "finished": "2022.02.27."
+      },
+      {
+        "book": "Királyok II. könyve",
+        "finished": "2022.02.16."
+      },
+      {
+        "book": "Királyok I. könyve",
+        "finished": "2020-2021"
+      },
+      {
+        "book": "Zsoltárok könyve",
+        "finished": "2020"
+      },
+      {
+        "book": "Példabeszédek könyve",
+        "finished": "2020"
+      },
+      {
+        "book": "Titusznak írt levél",
+        "finished": "2020"
+      },
+      {
+        "book": "Péter I. levele",
+        "finished": "2020"
+      },
+      {
+        "book": "Korintusiaknak írt II. levél",
+        "finished": "2020"
+      },
+      {
+        "book": "Galatáknak írt levél",
+        "finished": "2020"
+      },
+      {
+        "book": "Dániel könyve",
+        "finished": "2020"
+      },
+      {
+        "book": "Jakab levele",
+        "finished": "2020"
+      },
+      {
+        "book": "Korintusiaknak írt I. levél",
+        "finished": "2020"
+      },
+      {
+        "book": "Timóteusnak írt I. levél",
+        "finished": "2020"
+      },
+      {
+        "book": "Timóteusnak írt II. levél",
+        "finished": "2020"
+      },
+      {
+        "book": "János II. levele",
+        "finished": "2020"
+      },
+      {
+        "book": "János III. levele",
+        "finished": "2020"
+      },
+      {
+        "book": "Filemonnak írt levél",
+        "finished": "2020"
+      },
+      {
+        "book": "Kolosszeieknek írt levél",
+        "finished": "2020"
+      },
+      {
+        "book": "Efezusiaknak írt levél",
+        "finished": "2020"
+      },
+      {
+        "book": "Teremtés könyve",
+        "finished": "2020"
+      },
+      {
+        "book": "Eszter könyve",
+        "finished": "2020"
+      },
+      {
+        "book": "János evangéliuma",
+        "finished": "2020"
+      },
+      {
+        "book": "Bírák könyve",
+        "finished": "2020"
+      },
+      {
+        "book": "Sámuel II. könyve",
+        "finished": "2020"
+      },
+      {
+        "book": "Sámuel I. könyve",
+        "finished": "2020"
+      },
+      {
+        "book": "Apostolok Cselekedetei",
+        "finished": "2020"
+      },
+      {
+        "book": "Máté evangéliuma",
+        "finished": "2020"
+      },
+      {
+        "book": "Filippieknek írt levél",
+        "finished": "2020"
+      },
+      {
+        "book": "Lukács evangéliuma",
+        "finished": "2020"
+      },
+      {
+        "book": "János I. levele",
+        "finished": "2020"
+      },
+      {
+        "book": "Márk evangéliuma",
+        "finished": "2020"
+      },
+      {
+        "book": "Jónás könyve",
+        "finished": "2020"
+      },
+      {
+        "book": "Rut könyve",
+        "finished": "2020"
+      }
+    ]
+  }
+]
