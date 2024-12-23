@@ -1,5 +1,28 @@
 [
   {
+    "publisher": "Szent Gellért Egyházi Kiadó",
+    "edition": 11,
+    "year": 1990,
+     "already_read": [
+        {
+          "book": "Szent János harmadik levele",
+          "finished": "2024.12.23."
+        },
+        {
+          "book": "Szent János második levele",
+          "finished": "2024.12.23."
+        },
+        {
+          "book": "Szent János első levele",
+          "finished": "2024.12.22."
+        },
+        {
+          "book": "Szent Júdás levele",
+          "finished": "2024.12.22."
+        }
+     ]
+  },
+  {
     "publisher": "Szent Jeromos Katolikus Bibliatársulat",
     "edition": 9,
     "year": 2022,
