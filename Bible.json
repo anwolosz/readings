@@ -6,6 +6,14 @@
     "year": 1990,
      "already_read": [
         {
+          "book": "Szent Péter második levele",
+          "finished": "2024.12.24."
+        },
+        {
+          "book": "Szent Péter első levele",
+          "finished": "2024.12.24."
+        },
+        {
           "book": "Szent János harmadik levele",
           "finished": "2024.12.23."
         },
