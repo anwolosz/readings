@@ -6,6 +6,10 @@
     "year": 1990,
      "already_read": [
         {
+          "book": "Szent Jakab levele",
+          "finished": "2024.12.26."
+        },
+        {
           "book": "Szent Péter második levele",
           "finished": "2024.12.24."
         },
